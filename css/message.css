@@ -27,25 +27,23 @@
  height: 70px;
 }
 
-
+@media (max-width: 978px){
+  .sender .fs-7{
+    padding: 0px !important;
+    
+  } 
+  
+  .w-75{
+    width: 90% !important;
+    
+  }
+}
 
 @media (max-width: 401px){
   .chat{
     display: none !important;
   }
-    /* .avatar{
-  display: none !important;
   
- }
- .w-75{
-  width: 90% !important;
-  margin: 0 auto;
-  margin: 10px auto !important;
- }
- .chat{
-  width: 100% !important;
-  padding-left: 0 !important;
- } */
 }
 
 
