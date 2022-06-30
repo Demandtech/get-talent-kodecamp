@@ -29,9 +29,9 @@
 
 
 
-@media (max-width: 369px){
+@media (max-width: 401px){
   .chat{
-    display: none;
+    display: none !important;
   }
     /* .avatar{
   display: none !important;
