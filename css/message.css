@@ -6,7 +6,22 @@
  font-family: "Inter", sans-serif !important;
 }
 
+/*header styling*/
+.bg-blue {
+    background-color: rgba(39, 118, 234, 1);
+}
 
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,.75);
+}
+
+.bg-footer {
+    background-color: rgba(8, 24, 47, 1);
+}
+
+.fs-14 {
+    font-size: 14px;
+}
 
 .rounded-top{
  border-top-left-radius: 5px !important;
