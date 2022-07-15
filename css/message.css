@@ -61,9 +61,6 @@
   cursor: pointer;
 }
 
- .bi-search:hover .input {
-   display: block !important;
-  }
 
   .mobile-msg-input{
     display: none !important;
@@ -121,7 +118,11 @@
     background-color: white;
   }
   .wrapper{
-    border: none !important;
+    background-color: yello !important;
+  }
+
+  .top{
+    border-top: 1px solid #93BBF5!important;
   }
   .display-img{
     width: 50px;
@@ -138,6 +139,9 @@
   .w-75{
     width: 75% !important;
     
+  }
+  .active-message{
+    border: none ;
   }
   
   .messenger .fs-7{
